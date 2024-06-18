@@ -27,5 +27,5 @@ The Hotel Management System is a console-based C++ application designed to manag
 
 ## Author
 
-- Khushi Makwana (khushimakwana695@gmail.com)
+-  [@khushi Makwana](https://github.com/siya25097)
 
